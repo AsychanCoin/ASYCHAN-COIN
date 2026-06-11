@@ -25,7 +25,7 @@ Asychan Coin (ASN) is a BEP-20 utility token built on the BNB Smart Chain, desig
 
 ## Official Links
 
-Website: https://asychan.io
+Website: https://asychancoin.io
 
 Telegram: https://t.me/AsychanCoin
 
